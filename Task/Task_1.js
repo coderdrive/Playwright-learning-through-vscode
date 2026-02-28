@@ -20,3 +20,8 @@ else if (score >=0 && score <=59){
 else {
      console.log("Please type correct score"
 )}
+
+
+
+
+
